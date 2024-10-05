@@ -24,7 +24,7 @@
 
 ![Shop](screenshots/shop.jpg)
 
-> For more preview, please visit the live version at [https://hsr.wishsimulator.app](https://hsr.wishsimulator.app)
+> For more preview, please visit the live version at [https://hsr.wishsimulator.app](https://warp-simulator.vercel.app/)
 
 ---
 
